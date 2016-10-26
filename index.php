@@ -2,7 +2,7 @@
 
 /**
  * Fichier de lancement du MVC, Il appel le fichier de configuration.php et le fichier d'initialisation des GET/POST initialisation.php 
- * @author Jonathan Martel
+ * @author Stephanie Moreau
  * @version 1.1
  * @update 2016-01-22 : Adaptation du code aux standards de codage du département de TIM
  * @license MIT
