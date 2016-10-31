@@ -22,8 +22,12 @@
    /***************************************************/
     /** Démarrage du controleur **/
     /***************************************************/
+
+	// Ajout d'un commentaire ici
 	$oCtl = new Controleur();
 	$oCtl->gerer();
 	//bonjour.
 
+	// Ajout d'un commentaire ici
+//retest
 ?>
